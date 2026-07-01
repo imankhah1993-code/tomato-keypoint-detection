@@ -30,8 +30,7 @@ Tomato-Detection/
 
 ## Installation
 
-### 1. Clone the repository
-
+### 1. Clone the repository: https://github.com/imankhah1993-code/tomato-keypoint-detection.git
 
 
 ### 2. Create a virtual environment (recommended)
@@ -152,4 +151,4 @@ best.pt
 
 Iman Mirzakhah
 
-GitHub: 
+GitHub: https://github.com/imankhah1993-code
