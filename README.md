@@ -65,31 +65,6 @@ Run the application using the default settings:
 python detect.py
 ```
 
-Specify a different model:
-
-```bash
-python detect.py --model best.pt
-```
-
-Set a different confidence threshold:
-
-```bash
-python detect.py --conf 0.5
-```
-
-Use another camera:
-
-```bash
-python detect.py --camera 1
-```
-
-Example:
-
-```bash
-python detect.py --model best.pt --conf 0.45 --camera 0
-```
-
----
 
 ## Controls
 
